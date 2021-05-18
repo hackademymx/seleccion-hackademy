@@ -22,7 +22,7 @@ El bootcamp tiene un costo de inversión de $80,000 pesos Méxicanos (aproximada
 No, para entrar a hackademy pasas por un proceso de selección y solo los mejores son seleccionados, por lo que no podrías entrar de manera directa, pero si nos quieres donar los 80,000 pesos tienes nuestra atención y podemos hablar 😉.
 
 ## ¿Si obtuve la beca del 100% pero encontré empleo antes de finalizar las 20 semanas?
-Si antes de finalizar o al finalizar el padawan obtiene empleo por su cuenta, tiene la obligación de cubrir su beca ya sea de manera moneataria, apoyando con horas de desarrollo a Hackademy o con horas de mentorías, esta última queda sujeta al proceso de selección de mentores de Hackademy.
+Si antes de finalizar o al finalizar el padawan obtiene empleo por su cuenta, tiene la obligación de cubrir su beca ya sea de manera monetaria, apoyando con horas de desarrollo a Hackademy o con horas de mentorías, esta última queda sujeta al proceso de selección de mentores de Hackademy.
 
 ## ¿Qué tecnologías usan en Hackademy?
 - Python // NodeJS // ReactJS // Angular // React Native 
@@ -36,7 +36,7 @@ deberías de ser acreedor a la beca de tu selección.
    - **Back:** Debes subir una pequeña API con 2 endpoints (Guardar datos de la mascota y borrar datos de la mascota) con Django Rest Framework o NodeJS
    - **Móvil:** Debes de subir una pagina responsiva con html + css + js (sin librerías) que se conecte a mockapi para guardar y mostrar en una lista (nombre de la mascota, edad, raza y foto)
 
-*Recuerda que solo puedes aplicar a un área*
+*Recuerda que solo puedes aplicar a un área.*
    
 3. Ejercicios:
    - Imprimir mil veces un string sin usar un ciclo o una iteración
