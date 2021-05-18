@@ -34,7 +34,7 @@ deberías de ser acreedor a la beca de tu selección.
 2. Necesitas resolver 3 ejercicios de lógica más el ejercicio del área a la que quieres entrar:
    - **Front:** Debes de subir una página con html + css + js (sin librerías) que se conecte a mockapi para guardar y mostrar en una lista (nombre de la mascota, edad, raza y foto)
    - **Back:** Debes subir una pequeña API con 2 endpoints (Guardar datos de la mascota y borrar datos de la mascota) con Django Rest Framework o NodeJS
-   - **Móvil:** Debes de subir una pagina responiva con html + css + js (sin librerías) que se conecte a mockapi para guardar y mostrar en una lista (nombre de la mascota, edad, raza y foto)
+   - **Móvil:** Debes de subir una pagina responsiva con html + css + js (sin librerías) que se conecte a mockapi para guardar y mostrar en una lista (nombre de la mascota, edad, raza y foto)
 
 *Recuerda que solo puedes aplicar a un área*
    
