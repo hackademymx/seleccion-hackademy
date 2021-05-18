@@ -1,0 +1,2 @@
+array equipo = ["PSG", "Chicago Bulls", "Tomateros", "Isotopos", "Rangers", "Isotopos"]
+array campeonatos = ["3", "5", "6", "4", "2", "9"]
