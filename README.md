@@ -36,8 +36,8 @@ Si no finalizas el programa tienes la obligación de cubrir la beca de manera mo
 Tienes que hacer un fork de este repo y después un pull request a este repo con lo siguiente:
 1. Un archivo readme.md con tu nombre completo, correo, si estudias o trabajas, qué has desarrollado fuera de la escuela o trabajo y por qué
 deberías de ser acreedor a la beca de tu selección.
-   1. En este mismo readme necesitas agregar la url de tu ejercicio de área funcionando, la url del repo con el código de ese ejercicio y las url's de las soluciones de los ejercicios de lógica. 
-   2. Para las soluciones de los ejercicios de lógica puedes usar codepen o algo similar.
+   - En este mismo readme necesitas agregar la url de tu ejercicio de área funcionando, la url del repo con el código de ese ejercicio y las url's de las soluciones de los ejercicios de lógica. 
+   - Para las soluciones de los ejercicios de lógica puedes usar codepen o algo similar.
 2. Necesitas resolver 3 ejercicios de lógica más el ejercicio del área a la que quieres entrar:
    - **Front:** Debes de subir una página con html + css + js (sin librerías) que se conecte a mockapi para guardar y mostrar en una lista (nombre de la mascota, edad, raza y foto)
    - **Back:** Debes subir una pequeña API con 2 endpoints (Guardar datos de la mascota y borrar datos de la mascota) con Django Rest Framework o NodeJS
