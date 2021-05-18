@@ -11,7 +11,7 @@ Sumado a la parte técnica, todos los padawans tienen mentorías sobre: **finanz
 Al finalizar las 20 semanas posicionamos los perfiles de los padawans con empresas que buscan contratar el mejor talento.
 
 ## ¿Qué costo tiene?
-El bootcamp tiene un costo de inversión de $80,000 pesos Méxicanos (aproximadanente 40,000 USD), Hackademy es de la filosofía de que el conocimiento debe de ser accesible para todo aquel que quiere apreder y superarse, es por ello que absorbemos una parte del costo y manejamos dos tipos de becas: 
+El bootcamp tiene un costo de inversión de $80,000 pesos Méxicanos (aproximadanente 40,000 USD), Hackademy promueve la filosofía de que el conocimiento debe de ser accesible para todo aquel que quiere aprender y superarse, es por ello que absorbemos una parte del costo y manejamos dos tipos de becas: 
 
 1. Beca del 80%, el padawan acreedor de esta beca solo deberá cubrir un total de $20,000 pesos mexicanos los cuales pueden ser financiados a un lapso no mayor a 3 meses. 
 
@@ -42,3 +42,6 @@ deberías de ser acreedor a la beca de tu selección.
    - Imprimir mil veces un string sin usar un ciclo o una iteración
    - Calcular el año en el que más personas estuvieron vivas tomando un JSON con fecha de nacimiento y defunción. Ejemplo: 1er persona nació en 1950 y murió en el 2000, 2da persona nació en el 2000 y murió en el 2040. El resultado sería 2000
    - Si tienes 2 arreglos (1 con nombres de equipos y otro con cantidad de torneos) debes de acomodarlos del equipo más ganador al menos ganador.
+
+4. Entrevista
+   - Al finalizar el paso 1, 2 y 3 agendas una entrevista con alguien del equipo de Hackademy para hablar un poco sobre tí, tu experiencia y el resultado de tus ejercicios.
