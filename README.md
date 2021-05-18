@@ -7,24 +7,22 @@ Es un bootcamp intensivo de 20 semanas donde obtienes experiencia, mejoras tus h
 
 ## ¿Cómo funciona?
 Los padawans que integran una generación de Hackademy se especializan en un área del desarrollo de software (Backend, Frontend o móvil) y con ellos formamos equipos que tendrán que desarrollar una solución real en esas 20 semanas, auxiliados por mentores.
-Sumado a la parte técnica todos los padawans tienen mentorías sobre: finanzas personales, softskills, comunicación, comunidad y mucho más.
-Al finalizar las 20 semanas posicionamos los perfiles, de los padawans, con empresas que buscan contratar el mejor talento.
+Sumado a la parte técnica, todos los padawans tienen mentorías sobre: **finanzas personales, softskills, comunicación, comunidad y mucho más**.
+Al finalizar las 20 semanas posicionamos los perfiles de los padawans con empresas que buscan contratar el mejor talento.
 
 ## ¿Qué costo tiene?
 El bootcamp tiene un costo de inversión de $80,000 pesos Méxicanos(buscar en dolares), Hackademy es de la filosifía de que el conocimiento debe de ser accesible paraa todo aquel que quiere apreder y superase, es por ello que absorbemos una parte del costo y manejamos dos tipos de becas: 
 
--Beca del 80%, el padawan acreedor de esta beca solo debrá cubrir un total de $20,000 pesos mexicanos los cuales pueden ser financiados a un lapso no mayor a 3 meses. 
+1. Beca del 80%, el padawan acreedor de esta beca solo debrá cubrir un total de $20,000 pesos mexicanos los cuales pueden ser financiados a un lapso no mayor a 3 meses. 
 
--Beca del 100%, el padawan acreedor de esta beca es becado por empresas que buscan contratarlo al finalizar las 20 semanas.
+2. Beca del 100%, el padawan acreedor de esta beca es becado por empresas que buscan contratarlo al finalizar las 20 semanas.
 
-El bootcamp tiene un costo de $80,000 pesos los cuales son cubiertos por Hackademy y empresas que buscan contratar el mejor talento ya que trabajamos para democratizar el acceso a educación de calidad y a oportunidades laborales que nos ayudenn a generar riqueza así que hemos creado un modelo donde nuestros padawans acceden al programa becados por empresas que buscan contratar el mejor talento.
 
-El programa de Hackademy es becado bajo 2 modelos o el padawan puede decidir cubrir $20,000 pesos bajo un modelo financiado:
-1. Al finalizar las 20 semanas el padawan obtiene un empleo a través del pool de empresas de Hackademy.
-2. Antes de finalizar o al finalizar el padawan obtiene empleo por su cuenta cubre su beca apoyando con horas de desarrollo a Hackademy o con horas de mentorías, esta última queda sujeta al proceso de selección de mentores de Hackademy.
+## ¿Si no quiero la beca puedo entrar directo cubriendo el costo del bootcamp de $80,000 MX?
+No, para entrar a hackademy pasas por un proceso de selección y solo los mejores son seleccionados, por lo que no podrías entrar de manera directa, pero si nos quieres donar los 80,000 pesos tienes nuestra atención y podemos hablar 😉.
 
-## ¿Si no quiero la beca puedo entrar directo cubriendo el costo del bootcamp de 80,0000?
-No, para entrar a hackademy pasas por un proceso de selección y solo los mejores son seleccionados, por lo que no podrías entrar de manera directa, pero si nos quieres donar los 80,000 pesos tienes nuestra atención y podemos hablar ;).
+## ¿Si obtuve la beca del 100% pero encontré empleo antes de finalizar las 20 semanas?
+Si antes de finalizar o al finalizar el padawan obtiene empleo por su cuenta, tiene la obligación de cubrir su beca apoyando con horas de desarrollo a Hackademy o con horas de mentorías, esta última queda sujeta al proceso de selección de mentores de Hackademy.
 
 ## ¿Qué tecnologías usan en Hackademy?
 - Python // NodeJS // ReactJS // Angular // React Native 
@@ -32,13 +30,15 @@ No, para entrar a hackademy pasas por un proceso de selección y solo los mejore
 ## ¿Cómo aplico a Hackademy?
 Tienes que hacer un pull request a este repo con lo siguiente:
 1. Un archivo readme.md con tu nombre completo, correo, si estudias o trabajas, qué has desarrollado fuera de la escuela o trabajo y por qué
-Sumado a la parte técnica todos los padawans tienen mentorías sobre: finanzas personales, softskills, comunicación, comunidad y mucho más. deberías de estar en Hackademy.
-2. Para aplicar a Hackademy necesitas resolver 3 ejercicios de lógica más el ejercicio del área a la que quieres entrar:
-   1. Front: Debes de subir una pagina con html + css + js (sin librerías) que se conecte a mockapi para guardar y mostrar en una lista (nombre de la mascota, edad, raza y foto)
-   2. Back: Deber subir una pequeña API con 2 endpoints (Guardar datos de la mascota y borrar datos de la mascota) con Django Rest Framework o NodeJS
-   3. Móvil: Debes de subir una pagina responiva con html + css + js (sin librerías) que se conecte a mockapi para guardar y mostrar en una lista (nombre de la mascota, edad, raza y foto)
+deberías de ser acreedor a la beca de tu selección.
+2. Necesitas resolver 3 ejercicios de lógica más el ejercicio del área a la que quieres entrar:
+   - **Front:** Debes de subir una página con html + css + js (sin librerías) que se conecte a mockapi para guardar y mostrar en una lista (nombre de la mascota, edad, raza y foto)
+   - **Back:** Debes subir una pequeña API con 2 endpoints (Guardar datos de la mascota y borrar datos de la mascota) con Django Rest Framework o NodeJS
+   - **Móvil:** Debes de subir una pagina responiva con html + css + js (sin librerías) que se conecte a mockapi para guardar y mostrar en una lista (nombre de la mascota, edad, raza y foto)
+
+*Recuerda que solo puedes aplicar a una área*
    
 3. Ejercicios:
-   1. Imprimir mil veces un string sin usar un ciclo o una iteración
-   2. Calcular el año en el que más personas estuvieron vivas tomando un JSON con fecha de nacimiento y defunción. Ejemplo: 1er persona nació en 1950 y murió en el 2000, 2da persona nació en el 2000 y murió en el 2040. El resultado sería 2000
-   3. Si tienes 2 arreglos (1 con nombres de equipos y otro con cantidad de torneos) debes de acomodarlos del equipo más ganador al menos ganador.
+   - Imprimir mil veces un string sin usar un ciclo o una iteración
+   - Calcular el año en el que más personas estuvieron vivas tomando un JSON con fecha de nacimiento y defunción. Ejemplo: 1er persona nació en 1950 y murió en el 2000, 2da persona nació en el 2000 y murió en el 2040. El resultado sería 2000
+   - Si tienes 2 arreglos (1 con nombres de equipos y otro con cantidad de torneos) debes de acomodarlos del equipo más ganador al menos ganador.
