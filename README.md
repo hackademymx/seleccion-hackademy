@@ -36,7 +36,7 @@ deberías de ser acreedor a la beca de tu selección.
    - **Back:** Debes subir una pequeña API con 2 endpoints (Guardar datos de la mascota y borrar datos de la mascota) con Django Rest Framework o NodeJS
    - **Móvil:** Debes de subir una pagina responiva con html + css + js (sin librerías) que se conecte a mockapi para guardar y mostrar en una lista (nombre de la mascota, edad, raza y foto)
 
-*Recuerda que solo puedes aplicar a una área*
+*Recuerda que solo puedes aplicar a un área*
    
 3. Ejercicios:
    - Imprimir mil veces un string sin usar un ciclo o una iteración
