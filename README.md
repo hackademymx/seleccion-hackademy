@@ -16,7 +16,8 @@ El bootcamp tiene un costo de inversión de $80,000 pesos Méxicanos (aproximada
 1. Beca del 80%, el padawan acreedor de esta beca solo deberá cubrir un total de $20,000 pesos mexicanos los cuales pueden ser financiados a un lapso no mayor a 3 meses. 
 
 2. Beca del 100%, el padawan acreedor de esta beca es becado por empresas que buscan contratarlo al finalizar las 20 semanas.
-
+ 
+ *Aplicas a la beca que más te convenga*
 
 ## ¿Si no quiero la beca puedo entrar directo cubriendo el costo del bootcamp de $80,000 MX?
 No, para entrar a hackademy pasas por un proceso de selección y solo los mejores son seleccionados, por lo que no podrías entrar de manera directa, pero si nos quieres donar los 80,000 pesos tienes nuestra atención y podemos hablar 😉.
