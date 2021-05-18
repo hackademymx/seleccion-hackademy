@@ -6,14 +6,14 @@
 Es un bootcamp intensivo de 20 semanas donde obtienes experiencia, mejoras tus habilidades y entras a una comunidad que busca crecer y mejorar todos los días.
 
 ## ¿Cómo funciona?
-Los padawans que integran una generación de Hackademy se especializan en un área del desarrollo de software (Backend, Frontend o móvil) y con ellos formamos equipos que tendrán que desarrollar una solución real en esas 20 semanas, auxiliados por mentores.
+Los padawans que integran una generación de Hackademy se especializan en un área del desarrollo de software (*Backend, Frontend o móvil*) y con ellos formamos equipos que tendrán que desarrollar una solución real en esas 20 semanas, auxiliados por mentores.
 Sumado a la parte técnica, todos los padawans tienen mentorías sobre: **finanzas personales, softskills, comunicación, comunidad y mucho más**.
 Al finalizar las 20 semanas posicionamos los perfiles de los padawans con empresas que buscan contratar el mejor talento.
 
 ## ¿Qué costo tiene?
-El bootcamp tiene un costo de inversión de $80,000 pesos Méxicanos(buscar en dolares), Hackademy es de la filosifía de que el conocimiento debe de ser accesible paraa todo aquel que quiere apreder y superase, es por ello que absorbemos una parte del costo y manejamos dos tipos de becas: 
+El bootcamp tiene un costo de inversión de $80,000 pesos Méxicanos (aproximadanente 40,000 USD), Hackademy es de la filosofía de que el conocimiento debe de ser accesible para todo aquel que quiere apreder y superarse, es por ello que absorbemos una parte del costo y manejamos dos tipos de becas: 
 
-1. Beca del 80%, el padawan acreedor de esta beca solo debrá cubrir un total de $20,000 pesos mexicanos los cuales pueden ser financiados a un lapso no mayor a 3 meses. 
+1. Beca del 80%, el padawan acreedor de esta beca solo deberá cubrir un total de $20,000 pesos mexicanos los cuales pueden ser financiados a un lapso no mayor a 3 meses. 
 
 2. Beca del 100%, el padawan acreedor de esta beca es becado por empresas que buscan contratarlo al finalizar las 20 semanas.
 
@@ -22,7 +22,7 @@ El bootcamp tiene un costo de inversión de $80,000 pesos Méxicanos(buscar en d
 No, para entrar a hackademy pasas por un proceso de selección y solo los mejores son seleccionados, por lo que no podrías entrar de manera directa, pero si nos quieres donar los 80,000 pesos tienes nuestra atención y podemos hablar 😉.
 
 ## ¿Si obtuve la beca del 100% pero encontré empleo antes de finalizar las 20 semanas?
-Si antes de finalizar o al finalizar el padawan obtiene empleo por su cuenta, tiene la obligación de cubrir su beca apoyando con horas de desarrollo a Hackademy o con horas de mentorías, esta última queda sujeta al proceso de selección de mentores de Hackademy.
+Si antes de finalizar o al finalizar el padawan obtiene empleo por su cuenta, tiene la obligación de cubrir su beca ya sea de manera moneataria, apoyando con horas de desarrollo a Hackademy o con horas de mentorías, esta última queda sujeta al proceso de selección de mentores de Hackademy.
 
 ## ¿Qué tecnologías usan en Hackademy?
 - Python // NodeJS // ReactJS // Angular // React Native 
