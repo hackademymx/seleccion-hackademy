@@ -21,4 +21,4 @@
 ## Ejercicios de lógica
 1. [Imprimir 1000 veces un nombre](https://codepen.io/alexisss1928/pen/dyvOaMK)
 2. [Año en que mas vivio gente](https://codepen.io/alexisss1928/pen/ExWNGpN)
-3. [Organizar equipos por mas campeonatos ganados](https://codepen.io/alexisss1928/pen/ExWNGpN)
+3. [Organizar equipos por mas campeonatos ganados](https://codepen.io/alexisss1928/pen/vYxyvMr)
