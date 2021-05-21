@@ -14,7 +14,9 @@ También creo que sería un compañero de bootcamp excelente, por mi carácter a
 
 No quiero aburrirlos con la parte económica ya que todos conocemos la situación de Venezuela, y no es secreto que costear algo como esto sería bastante difícil.
 
-Me despido esperando contar con las aptitudes necesarias para ingresar al bootcamp, y contar con la aprobación de todos ustedes para disfrutar de esta gran oportunidad. 
+Me despido esperando contar con las aptitudes necesarias para ingresar al bootcamp, y contar con la aprobación de todos ustedes para disfrutar de esta gran oportunidad.
+
+Muchas Gracias...
 
 
 ## Desarrollos realizados
