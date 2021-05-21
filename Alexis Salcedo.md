@@ -16,7 +16,7 @@ No quiero aburrirlos con la parte económica ya que todos conocemos la situació
 
 Me despido esperando contar con las aptitudes necesarias para ingresar al bootcamp, y contar con la aprobación de todos ustedes para disfrutar de esta gran oportunidad.
 
-Muchas Gracias...
+## Muchas Gracias...
 
 
 ## Desarrollos realizados
