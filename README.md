@@ -1,54 +1,41 @@
-![Image Header](https://scontent.fmzt1-1.fna.fbcdn.net/v/t1.6435-9/152669709_1715386385311335_4237383846142032022_n.png?_nc_cat=111&ccb=1-3&_nc_sid=e3f864&_nc_eui2=AeFPN6WbwCzk8dd0nWJBNzJ8SAwqN3h5yNFIDCo3eHnI0SPLJWVgOn15e5qzeKatZ6I&_nc_ohc=y7S68cnsXAwAX-GtKfI&_nc_ht=scontent.fmzt1-1.fna&oh=e6ca04806a4d76879342f3a9984b3315&oe=60CA715F)
+Nombre: R. Emmanuel Avila Valdez
+Email: Emmanuel_a_valdez@outlook.com
+Ocupacion: Empleado, Autodidacta
+Proyectos: 
+    FRUTERIA VALERIA
 
-# Proceso de selección Hackademy
+    Repo: https://github.com/Emmanuel-A-Valdez/fruteria_valeria
+    Url: http://eav.pythonanywhere.com
 
-## ¿Qué es Hackademy?
-Es un bootcamp intensivo de 20 semanas donde obtienes experiencia, mejoras tus habilidades y entras a una comunidad que busca crecer y mejorar todos los días.
+    Un pequeño proyecto front to back que recientemente publique para el lugar donde trabajo. 
+    La he publicado en pythonanywhere de manera gratuita, una vez que el dueño pague por el dominio y servicio pythonanywhere cambiare el url y agregare el SSL.
+    En un futuro tengo pensado agregar mucho mas funcionalidad en django admin. Pero por el momento entrar a hackademy es prioridad.
+    Tecnologias: Html, css, js, python/django y postgres
 
-## ¿Cómo funciona?
-Los padawans que integran una generación de Hackademy se especializan en un área del desarrollo de software (*Backend, Frontend o móvil*) y con ellos formamos equipos que tendrán que desarrollar una solución real en esas 20 semanas, auxiliados por mentores.
-Sumado a la parte técnica, todos los padawans tienen mentorías sobre: **finanzas personales, softskills, comunicación, comunidad y mucho más**.
-Al finalizar las 20 semanas posicionamos los perfiles de los padawans con empresas que buscan contratar el mejor talento.
+    NUGGET RIB COOKOFF
 
-## ¿Qué costo tiene?
-El bootcamp tiene un costo de inversión de $80,000 pesos Méxicanos (aproximadanente $4,000 USD), Hackademy promueve la filosofía de que el conocimiento debe de ser accesible para todo aquel que quiere aprender y superarse, es por ello que absorbemos una parte del costo y manejamos dos tipos de becas: 
+    url: https://nuggetribcookoff.com/
 
-1. Beca del 80%, el padawan acreedor de esta beca solo deberá cubrir un total de $20,000 pesos mexicanos los cuales pueden ser financiados a un lapso no mayor a 3 meses. 
+    Tengo un hermano que es freelancer y uno de sus contratos es con Nugget Casino.
+    Nuggetribcookoff es una pagina de un evento anual que tiene el Nugget casino, ya que es un proyecto WP y el estaba ocupado con proyectos mas grandes me dejo que yo la personalizara siguiendo las especificaciones que nos dieron (Photoshop, archivos word, etc...).
+    WP maneja casi todo pero en algunos casos tuve que alterer el css para seguir las especificaciones del cliente.
 
-2. Beca del 100%, el padawan acreedor de esta beca es becado por empresas que buscan contratarlo al finalizar las 20 semanas.
- 
-***Aplicas a la beca que más te convenga.***
-
-## ¿Si no quiero la beca puedo entrar directo cubriendo el costo del bootcamp de $80,000 MX?
-No, para entrar a hackademy pasas por un proceso de selección y solo los mejores son seleccionados, por lo que no podrías entrar de manera directa, pero si nos quieres donar los 80,000 pesos tienes nuestra atención y podemos hablar 😉.
-
-## ¿Si obtuve la beca del 100% pero encontré empleo antes de finalizar las 20 semanas?
-Si antes de finalizar o al finalizar el padawan obtiene empleo por su cuenta, tiene la obligación de cubrir su beca ya sea de manera monetaria, apoyando con horas de desarrollo a Hackademy o con horas de mentorías, esta última queda sujeta al proceso de selección de mentores de Hackademy.
-
-## Si obtuve la beca del 100% ¿Qué pasa si abandono el bootcamp antes de finalizar las 20 semanas?
-Si no finalizas el programa tienes la obligación de cubrir la beca de manera monetaria. Hackademy solo tiene un determinado número de cupos y al abandonar el programa le estarías quitando la oportunidad a alguien más de aprender y adquirir experiencia.
+    Adicionalmente multiples tutoriales de Html, css, python, django
 
 
-## ¿Qué tecnologías usan en Hackademy?
-- Python // NodeJS // ReactJS // Angular // React Native 
+Porque debo ser acreedor a la beca Hackademy?
 
-## ¿Cómo aplico a Hackademy?
-Tienes que hacer un fork de este repo y después un pull request a este repo con lo siguiente:
-1. Un archivo readme.md con tu nombre completo, correo, si estudias o trabajas, qué has desarrollado fuera de la escuela o trabajo y por qué
-deberías de ser acreedor a la beca de tu selección.
-   - En este mismo readme necesitas agregar la url de tu ejercicio de área funcionando, la url del repo con el código de ese ejercicio y las url's de las soluciones de los ejercicios de lógica. 
-   - Para las soluciones de los ejercicios de lógica puedes usar codepen o algo similar.
-2. Necesitas resolver 3 ejercicios de lógica más el ejercicio del área a la que quieres entrar:
-   - **Front:** Debes de subir una página con html + css + js (sin librerías) que se conecte a mockapi para guardar y mostrar en una lista (nombre de la mascota, edad, raza y foto)
-   - **Back:** Debes subir una pequeña API con 2 endpoints (Guardar datos de la mascota y borrar datos de la mascota) con Django Rest Framework o NodeJS
-   - **Móvil:** Debes de subir una pagina responsiva con html + css + js (sin librerías) que se conecte a mockapi para guardar y mostrar en una lista (nombre de la mascota, edad, raza y foto)
+Porque para mi aprender, desarollarme y trabajar en desarollo de software no sera unicamente un cambio de carrera favorable, sera un cambio hacia un campo de trabajo que me apasiona y por ello sera sustentable a largo plazo. Estoy plenamente conciente de que mi mayor prioridad actual es tomar los pasos necesarios para hacerlo y Hackademy me ofrece una oportunidad inigualable para realizar mis metas.
+Por otra parte considero que encajo bien en el perfil que buscan ya que tengo ganas de aprender, ayudar y colaborar con mis compañeros.
+Hablo, leo y escribo ingles de manera nativa, y al no tener dependientes se me facilita mudarme de ser necesario por cuestiones laborales.
 
-*Recuerda que solo puedes aplicar a un área.*
-   
-3. Ejercicios:
-   - Imprimir mil veces un string sin usar un ciclo o una iteración
-   - Calcular el año en el que más personas estuvieron vivas tomando un JSON con fecha de nacimiento y defunción. Ejemplo: 1er persona nació en 1950 y murió en el 2000, 2da persona nació en el 2000 y murió en el 2040. El resultado sería 2000. https://github.com/hackademymx/seleccion-hackademy/blob/main/data.json
-   - Si tienes 2 arreglos (1 con nombres de equipos y otro con cantidad de torneos) debes de acomodarlos del equipo más ganador al menos ganador. https://github.com/hackademymx/seleccion-hackademy/blob/main/campeones.txt
 
-4. Entrevista
-   - Al finalizar el paso 1, 2 y 3 agendas una entrevista con alguien del equipo de Hackademy para hablar un poco sobre tí, tu experiencia y el resultado de tus ejercicios.
+VINCULOS EJERCICIOS DE LOGICA:
+https://replit.com/@EmmanuelAValdez/ejercicio01
+
+https://replit.com/@EmmanuelAValdez/ejercicio02
+
+https://replit.com/@EmmanuelAValdez/ejercicio03
+
+
+Proximamente agregare la url del repo de mi proyecto y la url de la pagina activa
