@@ -13,6 +13,9 @@ el aprendizaje se realiza por medio del desarrollo de soluciones reales y es lo 
 
 ### ¿Qué he desarrollado fuera de la escuela? ###
 Lo más relevante ha sido mi colaboración en el backend para una web de experiencias de viajes
+  
+https://localwuru.com/
+ 
 
 ### url del ejercicio de backend funcionando ###
 https://pets-api-developerharo.herokuapp.com/pet
