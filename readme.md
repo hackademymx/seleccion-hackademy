@@ -1,5 +1,5 @@
-Hola! Soy César Hernández
-</h1>(((((((((Introduccion pendiente)))))))</h1>
+<h2>Hola! Soy César Hernández</h2>
+<h2>(((((((((Introduccion pendiente)))))))))</h2>
 
 <h1>Ejercicios: Ejercicios realizados con codepen haciendo uso de JS</h1>
 <h1>Ejercicio 1: https://codepen.io/cesaraho123/pen/poeNEqj </h1>
