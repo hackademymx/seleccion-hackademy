@@ -38,4 +38,10 @@ https://replit.com/@EmmanuelAValdez/ejercicio02
 https://replit.com/@EmmanuelAValdez/ejercicio03
 
 
-Proximamente agregare la url del repo de mi proyecto y la url de la pagina activa
+API:
+
+Repo: https://github.com/Emmanuel-A-Valdez/puppy-api
+
+Sitio: https://puppys-api.herokuapp.com/
+
+
