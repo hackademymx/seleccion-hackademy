@@ -57,3 +57,12 @@ _Debes tener instalado:_
 3. **DELETE:** 
 * https://sleepy-scrubland-08045.herokuapp.com/pets/:id ---  _Donde :id va a ser la ID de la mascota guardada que queremos eliminar._
 ---
+# Ejercicios de lógica:
+1. **URL con la solución al ejercicio 1:**
+	* https://replit.com/@Alepal24/Ejercicio-1-de-logica#index.js
+2. **URL con la solución al ejercicio 2:**
+	* https://replit.com/@Alepal24/Ejercicio-2-de-logica#index.js
+3. **URL con la solución al ejercicio 3:**
+	* https://replit.com/@Alepal24/Ejercicio-3-de-logica#index.js
+---
+**ALEJANDRO PALACIO**
