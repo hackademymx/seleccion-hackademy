@@ -15,7 +15,7 @@ Porque soy una persona orientada a la disciplina, perfeccionista y proactiva. Am
 ***
 ### Solución de ejercicios
 #### Ejercicio de área:
-* [Repositorio](https://github.com/IsraelF55/api-rest-mascotas)
+* [Repositorio](https://github.com/IsraelF55/api.rest-mascotas)
 * [URL de API](https://israelflores-mascotas-node.herokuapp.com/api/mascotas/)
 #### Ejercicios generales:
 * [Ejercicio A](https://replit.com/@IsraelF55/Ejercicio-A-or-Israel-Flores?v=1)
